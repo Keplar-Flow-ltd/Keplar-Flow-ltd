@@ -1,0 +1,18 @@
+[submodule "haas-job-plugins"]
+	path = haas-job-plugins
+	url = https://github.com/Keplar-Flow-ltd/haas-job-plugins.git
+[submodule "liluts-flight-assistant"]
+	path = liluts-flight-assistant
+	url = https://github.com/Keplar-Flow-ltd/liluts-flight-assistant.git
+[submodule "liluts-scribe"]
+	path = liluts-scribe
+	url = https://github.com/Keplar-Flow-ltd/liluts-scribe.git
+[submodule "liquidaislmcookbook"]
+	path = liquidaislmcookbook
+	url = https://github.com/Keplar-Flow-ltd/liquidaislmcookbook.git
+[submodule "studio-hub"]
+	path = studio-hub
+	url = https://github.com/Keplar-Flow-ltd/studio-hub.git
+[submodule "studio-hub-agents"]
+	path = studio-hub-agents
+	url = https://github.com/Keplar-Flow-ltd/studio-hub-agents.git

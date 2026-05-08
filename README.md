@@ -17,6 +17,7 @@ Keplar Flow blends research, design, and engineering to create tech-scaled busin
 - **Liluts**: Lightweight, useful tools using Liquid AI models for community-driven innovation.
 - **Decent Work Initiatives**: Partner networks for fair labor, skill development, and mutual value creation.
 - **Agentic AI Systems**: From simple automation to purposeful, cognitive agents that enhance human decision-making.
+- **NotebookLM Integration**: Ethical content synthesis and podcast generation for administrative workflows.
 
 ## 🌍 Why
 
@@ -28,6 +29,7 @@ Because the right technology at the right time can transform industries, empower
 - [Liluts-Flightly](https://github.com/Keplar-Flow-ltd/liluts-flightly) - Flight booking assistant (renamed from liluts-flight-assistant).
 - [LiquidAI SLM Cookbook](https://github.com/Keplar-Flow-ltd/liquidaislmcookbook) - Examples and tools for Liquid AI models.
 - [Studio-Hub Agents](https://github.com/Keplar-Flow-ltd/studio-hub-agents) - Specialized AI agents for operations.
+- [NotebookLM Integration](https://github.com/Keplar-Flow-ltd/studio-hub-agents/tree/main/notebooklm-integration) - Ethical content synthesis tools.
 
 For partnerships, collaborations, or to join our network, contact us at [info@keplarflow.com](mailto:info@keplarflow.com).</content>
 <parameter name="filePath">c:\Users\adeba\OneDrive\Desktop\Projects\Keplar-Flow GH Org\README.md

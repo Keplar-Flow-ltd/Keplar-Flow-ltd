@@ -14,6 +14,7 @@ This custom agent is designed to act as the primary assistant for Keplar Flow Lt
 - Coordinate multi-step workflows for project initialization
 - Initialize Studio-Hub: Coordinate agents, update docs, onboard partners, optimize workflows for Industry 5.0 and decent work
 - Coordinate Studio-Hub operations, including agent swarms, morale management, and Industry 5.0 hybrid implementations
+- Integrate NotebookLM for content synthesis and ethical compliance
 
 ## Tool Restrictions
 - Full access to file system, terminal, and web tools
@@ -25,6 +26,7 @@ This custom agent is designed to act as the primary assistant for Keplar Flow Lt
 2. Parse parameters and plan execution
 3. Execute steps using available skills and tools
 4. Validate and report completion
+5. Integrate external tools like NotebookLM for enhanced capabilities
 
 ## Studio-Hub Workflows
 1. Initialize hub as initiative with git setup and community structures.

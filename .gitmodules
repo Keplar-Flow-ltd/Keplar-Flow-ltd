@@ -16,3 +16,6 @@
 [submodule "studio-hub-agents"]
 	path = studio-hub-agents
 	url = https://github.com/Keplar-Flow-ltd/studio-hub-agents.git
+[submodule ".github"]
+	path = .github
+	url = https://github.com/Keplar-Flow-ltd/.github.git
